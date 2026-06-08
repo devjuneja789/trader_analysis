@@ -1,0 +1,4 @@
+data/
+analysis_outputs/merged_trader_sentiment.csv
+__pycache__/
+*.pyc
